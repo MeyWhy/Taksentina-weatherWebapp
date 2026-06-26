@@ -7,6 +7,9 @@ It leverages **Internet of Things (IoT)** concepts and modern **web technologies
 Our goal was to design and implement a complete solution that connects IoT-based weather sensors to a responsive web interface, enabling users to observe and analyze environmental parameters efficiently.
 
 ---
+<img width="949" height="439" alt="Capture d&#39;écran 2026-06-26 141413" src="https://github.com/user-attachments/assets/5dbba398-4646-470a-8bcc-d0a784ee75e6" />
+<img width="948" height="435" alt="Capture d&#39;écran 2026-06-26 141434" src="https://github.com/user-attachments/assets/5eb013a0-8630-49e9-8b6d-dab1c0bfbe5d" />
+
 
 ## 🧠 Key Features
 - Real-time weather data collection and display (temperature, humidity, pressure, wind speed, etc.)
