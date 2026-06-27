@@ -8,7 +8,7 @@ Our goal was to design and implement a complete solution that connects IoT-based
 
 ---
 <img width="949" height="439" alt="Capture d&#39;écran 2026-06-26 141413" src="https://github.com/user-attachments/assets/5dbba398-4646-470a-8bcc-d0a784ee75e6" />
-<img width="948" height="435" alt="Capture d&#39;écran 2026-06-26 141434" src="https://github.com/user-attachments/assets/5eb013a0-8630-49e9-8b6d-dab1c0bfbe5d" />
+<img width="947" height="439" alt="Capture d&#39;écran 2026-06-27 165930" src="https://github.com/user-attachments/assets/da403666-2a31-45a0-8b3f-f3bf078d9a99" />
 
 
 ## 🧠 Key Features
